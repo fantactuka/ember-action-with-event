@@ -1,5 +1,5 @@
 # ember-action-with-event
-Adding original event object into {{action}} helper handlers
+Adding original event object into {{action}} helper handlers, which is no longer available by default (see https://github.com/emberjs/ember.js/issues/1684)
 
 ## Installation
 Put ember-action-with-event.js into `app/initializers` folder
